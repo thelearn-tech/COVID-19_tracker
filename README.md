@@ -20,7 +20,7 @@ COVID-19 country tracker/status information in CLI
 
 # Example
 
-![India-corona-status](https://raw.githubusercontent.com/thelearn-tech/website/main/IMG_20210430_210905.jpg)
+![India-corona-status](https://raw.githubusercontent.com/thelearn-tech/COVID-19_tracker/main/IMG_20210430_210905.jpg)
 
 # Tested on
 

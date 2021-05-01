@@ -41,7 +41,7 @@ banner
 echo ""
 printf "\e[0m\e[1;32m Country\e[0m\e[1;96m:\e[0m\e[1;33m $ccountry\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;32m Cases\e[0m\e[1;96m:\e[0m\e[1;33m   $ccases\e[0m\n"
+printf "\e[0m\e[1;32m Total Cases\e[0m\e[1;96m:\e[0m\e[1;33m $ccases\e[0m\n"
 printf "\e[0m\e[1;32m Cases Today\e[0m\e[1;96m:\e[0m\e[1;33m $ttodaycases\e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\e[1;32m Deaths\e[0m\e[1;96m:\e[0m\e[1;33m $ddeaths\e[0m\n"

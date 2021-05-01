@@ -27,3 +27,5 @@ COVID-19 country tracker/status information in CLI
 **Lubantu 18.04 LTS**
 
 **Termux on android 10**
+
+**Debian 10 Buster x86_64**

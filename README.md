@@ -1,10 +1,22 @@
 # COVID-19_tracker
 COVID-19 country tracker/status information in CLI
 
+![](https://img.shields.io/badge/Maintained-Yes-green)
+
+![](https://img.shields.io/badge/Code-Shell-green)
+
+
 # Original
 **Powered by https://corona-stats.online/**
 
 **https://github.com/sagarkarira/coronavirus-tracker-cli**
+
+# Requirements
+
+![](https://img.shields.io/badge/-Bash-green)
+
+![](https://img.shields.io/badge/-Curl-green)
+
 
 # Installation 
 

@@ -16,7 +16,7 @@ banner() {
 main() {
 clear
 clear	
-alldata=$(curl -s "https://corona-stats.online/india?format=json" -L )
+alldata=$(curl -s "https://corona-stats.online/$ccountry?format=json" -L )
 ttodaycases=$(echo $alldata | grep -oP '(?<="todayCases":)[^,]*' | head -n 1)
 ddeaths=$(echo $alldata | grep -oP '(?<="deaths":)[^},]*' | head -n 1)
 ttodayDeaths=$(echo $alldata | grep -oP '(?<="todayDeaths":)[^},]*' | head -n 1)
